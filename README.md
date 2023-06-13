@@ -1,1 +1,1 @@
-# rttg
+Identifying the typographically underserved low-vision developer audience, Frere-Jones Type designed the Intel One Mono typeface in partnership with the Intel Brand Team and VMLY&R, for maximum legibility to address developers' fatigue and eyestrain and reduce coding errors. A panel of low-vision and legally blind developers provided feedback at each stage of design.
