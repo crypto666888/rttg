@@ -1,0 +1,9 @@
+import argparse
+from data import *
+from compressors import *
+from experiments import *
+from utils import *
+from functools import partial
+from pathos.multiprocessing import ProcessingPool as Pool
+import time
+from torchtext.datasets import IMDB, AG_NEWS, SogouNews, DBpedia, YelpReviewPolarity, YahooAnswers, AmazonReviewPolarity
